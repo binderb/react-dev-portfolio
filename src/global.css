@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "@fontsource/open-sans";
+@import "@fontsource/open-sans/700.css";
+
+@layer base {
+  :root {
+    --dark: #33323d;
+    --highlight: #83ffcd;
+  }
+
+  body {
+    font-family: 'Open Sans';
+  }
+}
