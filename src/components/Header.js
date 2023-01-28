@@ -8,14 +8,14 @@ export default function Header () {
   const subtitle = `// dev / designer / educator`
 
   return (
-    <section className='flex overflow-hidden justify-between items-end h-[200px] bg-cover bg-no-repeat bg-center' style={bannerStyle}>
+    <section className='relative md:static flex flex-col md:flex-row overflow-hidden justify-between items-center md:items-end h-[250px] md:h-[200px] bg-cover bg-no-repeat bg-center' style={bannerStyle}>
       
-      <img id='avatar' className='w-[250px] h-[250px] m-[-20px] rounded-full border-dark shadow shadow-dark' src={avatar} alt='Avatar of Ben Binder.' />
+      <img id='avatar' className='w-[250px] h-[250px] m-[-30px] md:m-[-20px] rounded-full border-dark shadow shadow-dark' src={avatar} alt='Avatar of Ben Binder.' />
       
-      <div className='p-[15px] bg-highlight text-dark font-bold text-xl mb-[20px] mr-[30px]' id='subtitle'>
+      <div className='absolute md:static bottom-[-10px] p-[15px] bg-highlight text-dark font-bold text-[20px] sm:text-[24px] md:text-[30px] mb-[20px]  mr-0 md:mr-[30px]' id='subtitle'>
         {subtitle}
       </div>
-      
+
     </section>
   );
 }

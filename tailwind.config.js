@@ -2,9 +2,9 @@
 module.exports = {
   content: ["./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
-    fontSize: {
-        xl : '30px'
-    },
+    // fontSize: {
+    //     xl : '30px'
+    // },
     extend: {
       colors: {
         dark : "var(--dark)",
