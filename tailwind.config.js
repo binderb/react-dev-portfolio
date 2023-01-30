@@ -1,10 +1,8 @@
 /** @type {import('tailwindcss').Config} */
+
 module.exports = {
   content: ["./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
-    // fontSize: {
-    //     xl : '30px'
-    // },
     extend: {
       colors: {
         dark : "var(--dark)",
@@ -12,6 +10,9 @@ module.exports = {
       },
       boxShadow: {
         DEFAULT : '0px 0px 0px 10px'
+      },
+      backgroundImage: {
+        banner: 'url("./images/biochembanner.webp")'
       }
     },
   },
