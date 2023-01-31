@@ -18,4 +18,8 @@
     line-height: 1;
     background-color: var(--dark);
   }
+
+  p {
+    margin-bottom: 20px;
+  }
 }
