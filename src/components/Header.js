@@ -1,7 +1,7 @@
 import avatar from '../images/binder_dev_square_600x600.webp';
 import Nav from './Nav';
 
-export default function Header ({pages, setCurrentPage}) {
+export default function Header ({pages, currentPage, setCurrentPage}) {
   const name = `Ben Binder, Ph.D.`;
   const subtitle = `// dev / designer / educator`;
 
@@ -10,9 +10,10 @@ export default function Header ({pages, setCurrentPage}) {
 
     <header>
       <section id="top-bar" className="flex items-center flex-col sm:flex-row bg-dark pb-3 sm:py-3 justify-between">
-        <h1 className="max-sm:w-[100vw] bg-highlight text-dark text-center sm:text-left font-bold p-3 pl-[40px] text-[36px]">{name}</h1>
+        <h1 className="max-sm:w-[100vw] bg-highlight text-dark text-center sm:text-left font-bold p-3 md:pl-[40px] text-[30px] sm:text-[24px] md:text-[36px]">{name}</h1>
         <Nav 
           pages={pages}
+          currentPage={currentPage}
           setCurrentPage={setCurrentPage}
         />
       </section>

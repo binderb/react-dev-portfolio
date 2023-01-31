@@ -4,10 +4,10 @@ import Body from './components/Body';
 
 function App() {
   const pages = [
-    { name: 'about' },
-    { name: 'portfolio' },
-    { name: 'contact' },
-    { name: 'resume' }
+    { name: 'about', displayName: 'About Me' },
+    { name: 'portfolio', displayName: 'Portfolio' },
+    { name: 'contact', displayName: 'Contact Me' },
+    { name: 'resume', displayName: 'Resume' }
   ];
 
   const [currentPage, setCurrentPage] = useState(pages[0]);
@@ -16,6 +16,7 @@ function App() {
     <section className='flex flex-col h-screen'>
     <Header 
       pages={pages}
+      currentPage={currentPage}
       setCurrentPage={setCurrentPage} 
     />
     <Body
