@@ -6,7 +6,9 @@ module.exports = {
     extend: {
       colors: {
         dark : "var(--dark)",
-        highlight : "var(--highlight)"
+        highlight : "var(--highlight)",
+        seafoam: "var(--seafoam)",
+        skyblue: "var(--skyblue)"
       },
       boxShadow: {
         DEFAULT : '0px 0px 0px 10px'

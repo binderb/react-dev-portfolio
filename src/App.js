@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import Header from './components/Header';
+import Body from './components/Body';
 
 function App() {
   const pages = [
@@ -12,13 +13,15 @@ function App() {
   const [currentPage, setCurrentPage] = useState(pages[0]);
 
   return (
-    <>
+    <section className='flex flex-col h-screen'>
     <Header 
       pages={pages}
       setCurrentPage={setCurrentPage} 
     />
-    <div className="text-highlight">Current page is: {currentPage.name}</div>
-    </>
+    <Body
+      currentPage={currentPage}
+    />
+    </section>
   )
 }
 
