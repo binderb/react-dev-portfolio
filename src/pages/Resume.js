@@ -15,7 +15,7 @@ export default function Resume () {
             <strong>5+ years of developer experience</strong> designing online games and assessment tools for education.
           </li>
           <li>
-            <strong>7+ years of classNameroom teaching experience</strong> as a STEM instructor in higher education.
+            <strong>7+ years of classroom teaching experience</strong> as a STEM instructor in higher education.
           </li>
         </ul>
       </div>
