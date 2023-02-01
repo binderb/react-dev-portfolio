@@ -5,7 +5,7 @@ import Body from './components/Body';
 function App() {
   const pages = [
     { name: 'about', displayName: 'About Me' },
-    { name: 'portfolio', displayName: 'Portfolio' },
+    { name: 'work', displayName: 'My Work' },
     { name: 'contact', displayName: 'Contact Me' },
     { name: 'resume', displayName: 'Resume' }
   ];
