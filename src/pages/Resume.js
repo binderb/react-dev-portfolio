@@ -86,7 +86,16 @@ export default function Resume () {
         <div className="flex flex-col mb-5">
           <div className="flex justify-between">
             <div className="font-bold text-[18px]">
-              Ph.D., Biochemistry, Molecular Biology, and Biophysics
+              Bootcamp Certificate, <span className="font-light">Full Stack Web Development</span>
+              <div className="font-light text-[14px]">University of Minnesota, Minneapolis, MN</div>
+            </div>
+            <div className="font-bold text-[18px]">2023</div>
+          </div>
+        </div>
+        <div className="flex flex-col mb-5">
+          <div className="flex justify-between">
+            <div className="font-bold text-[18px]">
+              Ph.D., <span className="font-light">Biochemistry, Molecular Biology, and Biophysics</span>
               <div className="font-light text-[14px]">University of Minnesota, Minneapolis, MN</div>
             </div>
             <div className="font-bold text-[18px]">2016</div>
@@ -95,7 +104,7 @@ export default function Resume () {
         <div className="flex flex-col mb-5">
           <div className="flex justify-between">
             <div className="font-bold text-[18px]">
-              B.A., Chemistry and Mathematics
+              B.A., <span className="font-light">Chemistry and Mathematics</span>
               <div className="font-light text-[14px]">St. Olaf College, Northfield, MN</div>
             </div>
             <div className="font-bold text-[18px]">2011</div>
@@ -107,40 +116,31 @@ export default function Resume () {
     <section className="main-section" id="awards">
       <h2 className="font-bold text-[24px] mb-2">Awards</h2>
       <div className="main-content" id="awards-content">
-        <div className="award-box">
-          <div className="award-item-header">
-            <div className="award-item-name">
-              UofM Coding Bootcamp Certificate
-              <div className="award-item-location">University of Minnesota, Minneapolis, MN</div>
-            </div>
-            <div className="award-item-year">Expected Feb 2023</div>
-          </div>
-        </div>
-        <div className="award-box">
-          <div className="award-item-header">
-            <div className="award-item-name">
+        <div className="flex flex-col mb-5">
+          <div className="flex justify-between">
+            <div className="font-bold text-[18px]">
               CTL Scholarship Grant for interactive content development
-              <div className="award-item-location">Augsburg University, Minneapolis, MN</div>
+              <div className="font-light text-[14px]">Augsburg University, Minneapolis, MN</div>
             </div>
-            <div className="award-item-year">2022</div>
+            <div className="font-bold text-[18px]">2022</div>
           </div>
         </div>
-        <div className="award-box">
-          <div className="award-item-header">
-            <div className="award-item-name">
+        <div className="flex flex-col mb-5">
+          <div className="flex justify-between">
+            <div className="font-bold text-[18px]">
               Training Research Educators in Minnesota IRACDA Fellowship
-              <div className="award-item-location">University of Minnesota, Minneapolis, MN</div>
+              <div className="font-light text-[14px]">University of Minnesota, Minneapolis, MN</div>
             </div>
-            <div className="award-item-year">2017</div>
+            <div className="font-bold text-[18px]">2017</div>
           </div>
         </div>
-        <div className="award-box">
-          <div className="award-item-header">
-            <div className="award-item-name">
+        <div className="flex flex-col mb-5">
+          <div className="flex justify-between">
+            <div className="font-bold text-[18px]">
               Cyrus Barnum Teaching Award
-              <div className="award-item-location">University of Minnesota, Minneapolis, MN</div>
+              <div className="font-light text-[14px]">University of Minnesota, Minneapolis, MN</div>
             </div>
-            <div className="award-item-year">2015</div>
+            <div className="font-bold text-[18px]">2015</div>
           </div>
         </div>
       </div>
