@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/react-dev-portfolio/static/css/main.01acf8c3.css",
+    "main.js": "/react-dev-portfolio/static/js/main.d4950124.js",
+    "static/media/preview_Valence.webp": "/react-dev-portfolio/static/media/preview_Valence.dbc8ecef3ad1a557cdb7.webp",
+    "static/media/binder_dev_square_600x600.webp": "/react-dev-portfolio/static/media/binder_dev_square_600x600.f7677c7ba4b82f12d086.webp",
+    "static/media/preview_Axis.webp": "/react-dev-portfolio/static/media/preview_Axis.687c0baa6d9d9e50e84c.webp",
+    "static/media/open-sans-all-400-normal.woff": "/react-dev-portfolio/static/media/open-sans-all-400-normal.cb2542fccedadc68d737.woff",
+    "static/media/open-sans-all-700-normal.woff": "/react-dev-portfolio/static/media/open-sans-all-700-normal.105e43091a26bbed22fe.woff",
+    "static/media/preview_Shells.webp": "/react-dev-portfolio/static/media/preview_Shells.6ec3c9786691319d3c7a.webp",
+    "static/media/preview_Metabolica.webp": "/react-dev-portfolio/static/media/preview_Metabolica.d84b57d935cb25a78310.webp",
+    "static/media/biochembanner.webp": "/react-dev-portfolio/static/media/biochembanner.e5109c891e6fd1fa6de2.webp",
+    "static/media/preview_OrbitalWidget.webp": "/react-dev-portfolio/static/media/preview_OrbitalWidget.a68f703b64fe2fdc36e1.webp",
+    "static/media/open-sans-cyrillic-ext-400-normal.woff2": "/react-dev-portfolio/static/media/open-sans-cyrillic-ext-400-normal.01b11c560bc52c756c23.woff2",
+    "static/media/open-sans-cyrillic-ext-700-normal.woff2": "/react-dev-portfolio/static/media/open-sans-cyrillic-ext-700-normal.00b4dd1737b042f58e99.woff2",
+    "static/media/open-sans-latin-400-normal.woff2": "/react-dev-portfolio/static/media/open-sans-latin-400-normal.a1535f451fb7bb98f526.woff2",
+    "static/media/open-sans-latin-700-normal.woff2": "/react-dev-portfolio/static/media/open-sans-latin-700-normal.b245bc85ddeedb27a549.woff2",
+    "static/media/open-sans-latin-ext-400-normal.woff2": "/react-dev-portfolio/static/media/open-sans-latin-ext-400-normal.ccfa20f8de7f73249c39.woff2",
+    "static/media/open-sans-latin-ext-700-normal.woff2": "/react-dev-portfolio/static/media/open-sans-latin-ext-700-normal.64471a17dcb915ab3332.woff2",
+    "static/media/open-sans-cyrillic-400-normal.woff2": "/react-dev-portfolio/static/media/open-sans-cyrillic-400-normal.5a546777799f438b6bb4.woff2",
+    "static/media/open-sans-cyrillic-700-normal.woff2": "/react-dev-portfolio/static/media/open-sans-cyrillic-700-normal.2cf6253fec5056197d00.woff2",
+    "static/media/open-sans-greek-400-normal.woff2": "/react-dev-portfolio/static/media/open-sans-greek-400-normal.3064bf7e87155fcb14a1.woff2",
+    "static/media/open-sans-greek-700-normal.woff2": "/react-dev-portfolio/static/media/open-sans-greek-700-normal.a0312547715346ffccb1.woff2",
+    "static/media/open-sans-hebrew-400-normal.woff2": "/react-dev-portfolio/static/media/open-sans-hebrew-400-normal.daafcec89c2332b84c25.woff2",
+    "static/media/open-sans-hebrew-700-normal.woff2": "/react-dev-portfolio/static/media/open-sans-hebrew-700-normal.3befb44d920b69550008.woff2",
+    "static/media/open-sans-vietnamese-400-normal.woff2": "/react-dev-portfolio/static/media/open-sans-vietnamese-400-normal.473f6b09ca8f5658857e.woff2",
+    "static/media/open-sans-vietnamese-700-normal.woff2": "/react-dev-portfolio/static/media/open-sans-vietnamese-700-normal.b4c5968d5737aea8ed2d.woff2",
+    "static/media/open-sans-greek-ext-400-normal.woff2": "/react-dev-portfolio/static/media/open-sans-greek-ext-400-normal.1ed998a42083750e175e.woff2",
+    "static/media/open-sans-greek-ext-700-normal.woff2": "/react-dev-portfolio/static/media/open-sans-greek-ext-700-normal.8850c90c4b61e6472307.woff2",
+    "index.html": "/react-dev-portfolio/index.html",
+    "main.01acf8c3.css.map": "/react-dev-portfolio/static/css/main.01acf8c3.css.map",
+    "main.d4950124.js.map": "/react-dev-portfolio/static/js/main.d4950124.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01acf8c3.css",
+    "static/js/main.d4950124.js"
+  ]
+}
