@@ -11,16 +11,16 @@ Extra features included for completeness and UX considerations include:
 
 &nbsp;
 
-![The weather app includes a search option, a list of cities, and a five-day forecast and current weather conditions for Kihei, Hawaii.](./images/readme_screenshot.png)
+![The portfolio site is a single-page app that includes About, Portfolio, Contact, and Resume sections.](./images/readme_screenshot.png)
 
 
 ## Usage
 
-The page can be viewed [here](https://binderb.github.io/react-dev-portfolio/) on GitHub Pages.
+The page can be viewed [here](https://binderb.github.io/react-dev-portfolio/) on GitHub Pages. Users can navigate to the various sections of the portfolio site using the nav links, which are tied to state variables and prompt the rendering of different content.
 
 ## Credits
 
-All code was written by the developer.
+All code for this exercise was written by the developer, with general criteria supplied by the UofM Coding Bootcamp (Trilogy Education Services).
 
 ## License
 
