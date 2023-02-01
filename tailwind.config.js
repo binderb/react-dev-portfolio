@@ -15,6 +15,9 @@ module.exports = {
       },
       backgroundImage: {
         banner: 'url("./images/biochembanner.webp")'
+      },
+      listStyleType: {
+        square: 'square'
       }
     },
   },
