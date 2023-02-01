@@ -6,6 +6,7 @@ module.exports = {
     extend: {
       colors: {
         dark : "var(--dark)",
+        darkhover : "var(--dark-hover)",
         highlight : "var(--highlight)",
         seafoam: "var(--seafoam)",
         skyblue: "var(--skyblue)"

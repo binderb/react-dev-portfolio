@@ -67,7 +67,7 @@ export default function Contact () {
       />
       <div className='flex items-center'>
         <button
-          className='inline-block rounded-lg m-2 py-2 px-4 bg-dark text-highlight hover:text-white duration-200'
+          className='inline-block rounded-lg m-2 py-2 px-4 bg-dark hover:bg-darkhover text-highlight hover:text-white duration-200'
           onClick={handleFormSubmit}
         >
           Submit
