@@ -1,6 +1,6 @@
 export default function Project ({project}) {
   return (
-    <div className='relative border-[5px] border-highlight group overflow-hidden'>
+    <div className='relative border-[5px] border-highlight group overflow-hidden aspect-[8/5]'>
       {/* Banner */}
       <div className='peer absolute bottom-[15%] w-[100%]'>
         {/* Title Card */}
@@ -10,7 +10,7 @@ export default function Project ({project}) {
             <div className='font-light text-[16px]'>{project.subtitle}</div>
           </div>
           {/* Links Menu */}
-          <div className='flex flex-col bottom-0 bg-highlight text-dark p-2 m-0 duration-200 z-[-1] w-0 group-hover:w-[40%]'>
+          <div className='flex flex-col bottom-0 bg-highlight text-dark p-2 m-0 duration-200 z-[-1] w-0 group-hover:w-[40%] justify-center'>
             <div className='flex justify-end'>
               <a className='flex flex-col items-center font-bold hover:text-darkhover duration-200 px-2' href={project.url}>
                 <i className='fa-solid fa-circle-play p-1 text-[30px]'></i>
@@ -28,7 +28,7 @@ export default function Project ({project}) {
       {/* Dimmer */}
       <div className='absolute w-full h-full bg-dark opacity-30 hover:opacity-0 duration-200 peer-hover:opacity-0 z-[1]'></div>
       {/* Image */}
-      <img className='object-fill' alt='' src={project.image}/>
+      <img className='object-cover h-full w-full' alt='' src={project.image}/>
     </div>
   );
 }
