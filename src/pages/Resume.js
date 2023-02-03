@@ -34,7 +34,7 @@ export default function Resume () {
             <div className="font-bold text-[18px]">2022-present</div>
           </div>
           <div className="experience-item-content">
-            I build web-based, responsive tools for streamlined management of lab inventory and organization. I also develop experimental protocols with R&D staff and manage BioSim's quality system..
+            I build web-based, responsive tools for streamlined management of lab inventory and organization. I also develop experimental protocols with R&D staff and manage BioSim's quality system.
           </div>
         </div>
         {/* Augsburg */}
@@ -48,7 +48,7 @@ export default function Resume () {
           </div>
           <div className="experience-item-content">
             I designed and taught a wide range of courses, from first-year survey courses to the university's upper-division biochemistry sequence. I specialized in developing interactive educational tools, including web- and app-based demos, games, and practice modules, 
-            which can be viewed in my <a className="inline-link" href="index.html">portfolio</a>.
+            which can be viewed in my portfolio.
           </div>
         </div>
         {/* Concordia */}
