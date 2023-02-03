@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-dev-portfolio/static/css/main.cc34e940.css",
-    "main.js": "/react-dev-portfolio/static/js/main.dd32e94f.js",
+    "main.css": "/react-dev-portfolio/static/css/main.1828aa95.css",
+    "main.js": "/react-dev-portfolio/static/js/main.ad03746a.js",
     "static/media/preview_tasqmaster.png": "/react-dev-portfolio/static/media/preview_tasqmaster.236ec30d2a1a29e4df73.png",
     "static/media/preview_simpleblog.png": "/react-dev-portfolio/static/media/preview_simpleblog.46cf6e3c27afa593b185.png",
     "static/media/preview_weather.png": "/react-dev-portfolio/static/media/preview_weather.c54a9966870f27bce584.png",
@@ -30,11 +30,11 @@
     "static/media/open-sans-greek-ext-400-normal.woff2": "/react-dev-portfolio/static/media/open-sans-greek-ext-400-normal.1ed998a42083750e175e.woff2",
     "static/media/open-sans-greek-ext-700-normal.woff2": "/react-dev-portfolio/static/media/open-sans-greek-ext-700-normal.8850c90c4b61e6472307.woff2",
     "index.html": "/react-dev-portfolio/index.html",
-    "main.cc34e940.css.map": "/react-dev-portfolio/static/css/main.cc34e940.css.map",
-    "main.dd32e94f.js.map": "/react-dev-portfolio/static/js/main.dd32e94f.js.map"
+    "main.1828aa95.css.map": "/react-dev-portfolio/static/css/main.1828aa95.css.map",
+    "main.ad03746a.js.map": "/react-dev-portfolio/static/js/main.ad03746a.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc34e940.css",
-    "static/js/main.dd32e94f.js"
+    "static/css/main.1828aa95.css",
+    "static/js/main.ad03746a.js"
   ]
 }
