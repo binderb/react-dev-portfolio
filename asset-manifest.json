@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-dev-portfolio/static/css/main.e2dd8e1c.css",
-    "main.js": "/react-dev-portfolio/static/js/main.99680a3d.js",
-    "static/media/preview_Valence.webp": "/react-dev-portfolio/static/media/preview_Valence.dbc8ecef3ad1a557cdb7.webp",
+    "main.css": "/react-dev-portfolio/static/css/main.cc34e940.css",
+    "main.js": "/react-dev-portfolio/static/js/main.83aad1b1.js",
+    "static/media/preview_tasqmaster.png": "/react-dev-portfolio/static/media/preview_tasqmaster.236ec30d2a1a29e4df73.png",
+    "static/media/preview_simpleblog.png": "/react-dev-portfolio/static/media/preview_simpleblog.46cf6e3c27afa593b185.png",
+    "static/media/preview_weather.png": "/react-dev-portfolio/static/media/preview_weather.c54a9966870f27bce584.png",
+    "static/media/preview_metabolica.png": "/react-dev-portfolio/static/media/preview_metabolica.6b62e569c04acd1b2acc.png",
+    "static/media/preview_shells.png": "/react-dev-portfolio/static/media/preview_shells.142d82bb5c5d8bbeb855.png",
     "static/media/binder_dev_square_600x600.webp": "/react-dev-portfolio/static/media/binder_dev_square_600x600.f7677c7ba4b82f12d086.webp",
-    "static/media/preview_Axis.webp": "/react-dev-portfolio/static/media/preview_Axis.687c0baa6d9d9e50e84c.webp",
     "static/media/open-sans-all-400-normal.woff": "/react-dev-portfolio/static/media/open-sans-all-400-normal.cb2542fccedadc68d737.woff",
     "static/media/open-sans-all-700-normal.woff": "/react-dev-portfolio/static/media/open-sans-all-700-normal.105e43091a26bbed22fe.woff",
-    "static/media/preview_Shells.webp": "/react-dev-portfolio/static/media/preview_Shells.6ec3c9786691319d3c7a.webp",
     "static/media/benbinder_resume.pdf": "/react-dev-portfolio/static/media/benbinder_resume.d590bfd6255c87483211.pdf",
-    "static/media/preview_Metabolica.webp": "/react-dev-portfolio/static/media/preview_Metabolica.d84b57d935cb25a78310.webp",
     "static/media/biochembanner.webp": "/react-dev-portfolio/static/media/biochembanner.e5109c891e6fd1fa6de2.webp",
-    "static/media/preview_OrbitalWidget.webp": "/react-dev-portfolio/static/media/preview_OrbitalWidget.a68f703b64fe2fdc36e1.webp",
     "static/media/open-sans-cyrillic-ext-400-normal.woff2": "/react-dev-portfolio/static/media/open-sans-cyrillic-ext-400-normal.01b11c560bc52c756c23.woff2",
     "static/media/open-sans-cyrillic-ext-700-normal.woff2": "/react-dev-portfolio/static/media/open-sans-cyrillic-ext-700-normal.00b4dd1737b042f58e99.woff2",
     "static/media/open-sans-latin-400-normal.woff2": "/react-dev-portfolio/static/media/open-sans-latin-400-normal.a1535f451fb7bb98f526.woff2",
@@ -29,11 +29,11 @@
     "static/media/open-sans-greek-ext-400-normal.woff2": "/react-dev-portfolio/static/media/open-sans-greek-ext-400-normal.1ed998a42083750e175e.woff2",
     "static/media/open-sans-greek-ext-700-normal.woff2": "/react-dev-portfolio/static/media/open-sans-greek-ext-700-normal.8850c90c4b61e6472307.woff2",
     "index.html": "/react-dev-portfolio/index.html",
-    "main.e2dd8e1c.css.map": "/react-dev-portfolio/static/css/main.e2dd8e1c.css.map",
-    "main.99680a3d.js.map": "/react-dev-portfolio/static/js/main.99680a3d.js.map"
+    "main.cc34e940.css.map": "/react-dev-portfolio/static/css/main.cc34e940.css.map",
+    "main.83aad1b1.js.map": "/react-dev-portfolio/static/js/main.83aad1b1.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2dd8e1c.css",
-    "static/js/main.99680a3d.js"
+    "static/css/main.cc34e940.css",
+    "static/js/main.83aad1b1.js"
   ]
 }
