@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/react-dev-portfolio/static/css/main.cc34e940.css",
-    "main.js": "/react-dev-portfolio/static/js/main.83aad1b1.js",
+    "main.js": "/react-dev-portfolio/static/js/main.dd32e94f.js",
     "static/media/preview_tasqmaster.png": "/react-dev-portfolio/static/media/preview_tasqmaster.236ec30d2a1a29e4df73.png",
     "static/media/preview_simpleblog.png": "/react-dev-portfolio/static/media/preview_simpleblog.46cf6e3c27afa593b185.png",
     "static/media/preview_weather.png": "/react-dev-portfolio/static/media/preview_weather.c54a9966870f27bce584.png",
     "static/media/preview_metabolica.png": "/react-dev-portfolio/static/media/preview_metabolica.6b62e569c04acd1b2acc.png",
     "static/media/preview_shells.png": "/react-dev-portfolio/static/media/preview_shells.142d82bb5c5d8bbeb855.png",
+    "static/media/preview_quiz.png": "/react-dev-portfolio/static/media/preview_quiz.b04f97ca306a40592bb9.png",
     "static/media/binder_dev_square_600x600.webp": "/react-dev-portfolio/static/media/binder_dev_square_600x600.f7677c7ba4b82f12d086.webp",
     "static/media/open-sans-all-400-normal.woff": "/react-dev-portfolio/static/media/open-sans-all-400-normal.cb2542fccedadc68d737.woff",
     "static/media/open-sans-all-700-normal.woff": "/react-dev-portfolio/static/media/open-sans-all-700-normal.105e43091a26bbed22fe.woff",
@@ -30,10 +31,10 @@
     "static/media/open-sans-greek-ext-700-normal.woff2": "/react-dev-portfolio/static/media/open-sans-greek-ext-700-normal.8850c90c4b61e6472307.woff2",
     "index.html": "/react-dev-portfolio/index.html",
     "main.cc34e940.css.map": "/react-dev-portfolio/static/css/main.cc34e940.css.map",
-    "main.83aad1b1.js.map": "/react-dev-portfolio/static/js/main.83aad1b1.js.map"
+    "main.dd32e94f.js.map": "/react-dev-portfolio/static/js/main.dd32e94f.js.map"
   },
   "entrypoints": [
     "static/css/main.cc34e940.css",
-    "static/js/main.83aad1b1.js"
+    "static/js/main.dd32e94f.js"
   ]
 }
