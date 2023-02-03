@@ -8,7 +8,7 @@
 @layer base {
   :root {
     --dark: #33323d;
-    --dark-hover: #33323d;
+    --dark-hover: #55545f;
     --highlight: #83ffcd;
     --seafoam: #83ffcd;
     --skyblue: #88d5fe;

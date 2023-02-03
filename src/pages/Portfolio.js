@@ -1,48 +1,53 @@
 import Project from '../components/Project';
 
-import valence from '../images/preview_Valence.webp';
-import shells from '../images/preview_Shells.webp';
-import metabolica from '../images/preview_Metabolica.webp';
-import pathways from '../images/preview_Axis.webp';
-import orbitals from '../images/preview_OrbitalWidget.webp';
+import shells from '../images/preview_shells.png';
+import metabolica from '../images/preview_metabolica.png';
+import simpleblog from '../images/preview_simpleblog.png';
+import weather from '../images/preview_weather.png';
+import tasqmaster from '../images/preview_tasqmaster.png';
 
 export default function Portfolio () {
   const projects = [
     {
-      name: 'Valence',
-      subtitle: 'Unity / C# / WebGL',
-      url: 'http://binderlab.org/resources/valence_1_9_8/',
-      image: valence
-    },
-    {
-      name: 'Pathways',
-      subtitle: 'Unity / C# / WebGL',
-      url: 'http://binderlab.org/resources/axis_1_2_0/',
-      image: pathways
+      name: 'Tasqmaster',
+      subtitle: 'Express / MySQL',
+      url: 'https://tasqmaster.herokuapp.com/',
+      github: 'https://github.com/binderb/tasqmaster',
+      image: tasqmaster
     },
     {
       name: 'Shells',
-      subtitle: 'JQuery / CSS',
+      subtitle: 'JQuery / MySQL',
       url: 'http://binderlab.org/app_shells',
+      github: 'https://github.com/binderb/shells',
       image: shells
     },
     {
       name: 'Metabolica',
-      subtitle: 'Unity / C# / WebGL',
-      url: 'http://binderlab.org/resources/Metabolica_2_0_0/',
+      subtitle: 'JQuery / MySQL',
+      url: 'http://binderlab.org/app_metabolica',
+      github: 'https://github.com/binderb/metabolica',
       image: metabolica
     },
     {
-      name: 'Orbitals',
-      subtitle: 'Unity / C# / WebGL',
-      url: 'http://binderlab.org/resources/OrbitalWidget_1_0_6/',
-      image: orbitals
+      name: 'Simple Blog',
+      subtitle: 'Express / MySQL',
+      url: 'https://simple-blog.herokuapp.com/',
+      github: 'https://github.com/binderb/simple-blog',
+      image: simpleblog
+    },
+    {
+      name: 'Weather Dashboard',
+      subtitle: 'JQuery / Bootstrap',
+      url: 'https://binderb.github.io/weather-dashboard',
+      github: 'https://github.com/binderb/weather-dashboard',
+      image: weather
     }
 
   ]
   
   return (
-    <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8'>
+    <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8'>
       {projects.map((project) => (
         <Project key={project.name}
           project={project}
