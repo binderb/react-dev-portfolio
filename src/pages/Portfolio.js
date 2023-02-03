@@ -5,6 +5,7 @@ import metabolica from '../images/preview_metabolica.png';
 import simpleblog from '../images/preview_simpleblog.png';
 import weather from '../images/preview_weather.png';
 import tasqmaster from '../images/preview_tasqmaster.png';
+import quiz from '../images/preview_quiz.png';
 
 export default function Portfolio () {
   const projects = [
@@ -14,6 +15,13 @@ export default function Portfolio () {
       url: 'https://tasqmaster.herokuapp.com/',
       github: 'https://github.com/binderb/tasqmaster',
       image: tasqmaster
+    },
+    {
+      name: 'Simple Blog',
+      subtitle: 'Express / MySQL',
+      url: 'https://simple-blog.herokuapp.com/',
+      github: 'https://github.com/binderb/simple-blog',
+      image: simpleblog
     },
     {
       name: 'Shells',
@@ -30,11 +38,11 @@ export default function Portfolio () {
       image: metabolica
     },
     {
-      name: 'Simple Blog',
-      subtitle: 'Express / MySQL',
-      url: 'https://simple-blog.herokuapp.com/',
-      github: 'https://github.com/binderb/simple-blog',
-      image: simpleblog
+      name: 'Code Quiz',
+      subtitle: 'Vanilla JS',
+      url: 'https://binderb.github.io/code-quiz',
+      github: 'https://github.com/binderb/code-quiz',
+      image: quiz
     },
     {
       name: 'Weather Dashboard',
